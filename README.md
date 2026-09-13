@@ -34,6 +34,7 @@ I like building full-stack and IoT projects end-to-end — from hardware and bac
 **AI & APIs**
 
 ![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude API](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub API](https://img.shields.io/badge/-GitHub%20API-181717?style=flat-square&logo=github&logoColor=white)
 
 **Tools**
