@@ -42,7 +42,6 @@ I like building full-stack and IoT projects end-to-end — from hardware and bac
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-**Currently learning:** deepening Node.js/Express and TypeScript, then moving into AI/ML foundations.
 
 ---
 
