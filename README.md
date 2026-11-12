@@ -1,4 +1,4 @@
-# Hi, I'm Madush 👋
+# Hi, I'm Madusha 👋
 
 Second-year IT undergraduate at the **University of Moratuwa, Sri Lanka**, building toward a career in **Software Engineering & AI/ML**.
 
