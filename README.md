@@ -88,7 +88,7 @@ Working toward a software engineering internship by **February 2027**, using ful
 ### 📫 Reach Me
 
 <p>
-<a href="https://github.com/Madush4/my-portfolio-v1"><img src="https://img.shields.io/badge/-Portfolio-3f8cff?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/></a>
+<a href="https://madush4.github.io/my-portfolio-v1/"><img src="https://img.shields.io/badge/-Portfolio-3f8cff?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/madushadamith/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:madushdamith8@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
