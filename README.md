@@ -88,7 +88,7 @@ Working toward a software engineering internship by **February 2027**, using ful
 ### 📫 Reach Me
 
 <a href="https://github.com/Madush4/my-portfolio-v1">
-  <img src="https://img.shields.io/badge/My_Portfolio-Repository-3f8cff?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d10" alt="Portfolio repository"/>
+  <img src="https://img.shields.io/badge/My_Portfolio-3f8cff?style=flat-square&logo=github&logoColor=white&labelColor=0b0d10" alt="Visit"/>
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madushadamith/)
